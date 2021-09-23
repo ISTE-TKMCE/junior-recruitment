@@ -30,6 +30,7 @@ if(isset($_POST['submit']))
   <center><div class="mt-5" style="display: table-cell;text-align:center;width:100%;vertical-align: middle;min-height:10em;height: 100vh;">
       <h1 class="pt-5 text-center mx-auto " style="font-size: 40px;">ISTE Execom Registration 2021<br></h1>
       <p class="mt-5 h1-responsive" style="font-size:30px">Last Date - September 28, 2021</p>
+	<p class="mt-5 h1-responsive" style="font-size:30px">Open only to first years</p>
     </div></center>
   </section>
     <div id="cards_landscape_wrap-2">
