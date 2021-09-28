@@ -249,9 +249,9 @@ if(isset($_POST['submit']))
           
         </div>
         <br /><br />
-        <a href="https://recruitment.istetkmce.in/home.php">
-          <button type="submit" class="btn btn-primary btn-lg btn-block">
-            REGISTER NOW
+        <a href="">
+          <button type="submit" class="btn btn-alert btn-lg btn-block">
+            Registration closed
           </button>
         </a>
       </div>
